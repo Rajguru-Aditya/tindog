@@ -3,3 +3,6 @@
 
 A Landing page for Tinder-like website but for Dogs!
 Made this while learning HTML and CSS
+
+Link:
+https://rajguru-aditya.github.io/tindog/
